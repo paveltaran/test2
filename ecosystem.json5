@@ -2,7 +2,7 @@
 	apps : [
 		{
 			name: "check-exploits",
-			script: "babel-sender.js",
+			script: "sender.js",
 			interpreter: "babel-node"
 		}
 	],
