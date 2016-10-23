@@ -12,8 +12,8 @@
 			user : "root",
 			host : "207.38.84.54",
 			ref  : "origin/master",
-			repo : "https://_taran2L:kywege9o7@bitbucket.org/_gambling/check-wp.git",
-			path : "/root/check-wp",
+			repo : "https://_taran2L:kywege9o7@bitbucket.org/_webmaster/check-exploits.git",
+			path : "/root/check-exploits",
 			"post-deploy" : "npm install && pm2 startOrRestart ecosystem.json5 --env production"
 		}
 	}
